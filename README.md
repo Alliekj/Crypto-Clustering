@@ -60,4 +60,4 @@ The dataset used in this project is `crypto_market_data.csv`, which contains var
 
 ## Results
 
-The analysis successfully clustered the cryptocurrencies into distinct groups, revealing patterns in the data that can inform investment strategies or further research.
+The project successfully segmented cryptocurrencies into distinct clusters, uncovering trends and relationships that add depth to market analysis and support potential strategic decision-making
